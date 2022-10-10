@@ -1,0 +1,12 @@
+h1{
+	font-size: 30px;
+	color: #EC2A2A;
+}
+
+h2{
+	color: purple;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
